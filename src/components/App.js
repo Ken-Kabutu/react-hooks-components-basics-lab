@@ -18,7 +18,6 @@ function Home() {
   );
 }
 
-{ <About /> }
 
 
 function App() {
